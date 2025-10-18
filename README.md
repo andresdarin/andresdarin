@@ -1,230 +1,198 @@
 # 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Andrés+Darín;Welcome+to+my+profile!" alt="Title"></img>
-</div>
 
 <div align="center">
-
-  <!-- FRONTEND -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" width="43" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" width="43" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="43" width="43" alt="SASS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="43" width="43" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" width="43" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" width="43" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" width="43" alt="React" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="43" width="43" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="43" width="43" alt="Redux" />
-    <!-- BACKEND -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" width="43" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="43" width="43" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" height="43" width="43" alt="NestJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" width="43" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" width="43" alt="MySQL" />
-  <img src="https://jwt.io/img/icon.svg" height="43" width="43" alt="JWT" />
-    <!-- DEVOPS / TOOLS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" width="43" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="43" width="43" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" height="43" width="43" alt="Vercel" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="43" width="43" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" height="43" width="43" alt="Figma" />
-    <!-- TESTING -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="43" width="43" alt="Jest" />
-
-
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=black&reversal=true />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Andrés+Darín;Frontend+Developer;Systems+Analyst;Coder;Gamer;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+---
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
+</p>
+
+
+<div align="center">
+
+
+<!-- FRONTEND -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" alt="SASS" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" width="40" alt="TailwindCSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="40" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
+
+<!-- BACKEND -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40" width="40" alt="Express.js" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" height="40" width="40" alt="NestJS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
+
+<!-- DEVOPS / TOOLS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" height="40" width="40" alt="Vercel" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" height="40" width="40" alt="AWS" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" height="40" width="40" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="40" alt="Jest" />
+
+</div>
 
 ---
 
-## 🚀 About Me 🚀
-
-<details>
-<summary>Mostrar / ocultar — Sobre mí</summary>
+## 🚀 About Me
 
 ```javascript
-const andresdarin = {
+const andrésDarín = {
   name: "Juan Andrés Silva Darín",
   location: "📍 Montevideo, Uruguay",
-  languages: ["🇪🇸 Spanish (Native)", "🇬🇧 English (Professional)", "🇧🇷 Portuguese (Intermediate)"],
-  role: "Full Stack Developer | Systems Analyst",
-  focus: "Designing scalable, secure, and high-performance web applications",
-  techStack: ["Next.js", "React", "Node.js", "Express", "MongoDB", "Tailwind", "Redux"],
-  interests: ["Software Architecture", "Performance Optimization", "DevOps", "AI Integration"],
-  learning: ["System Design", "Redux", "TypeScript Patterns"],
-  openTo: ["Frontend / Full-Stack positions", "Freelance projects", "Collaborations"],
-  contact: "juanandressilvadarin@gmail.com"
+  role: "Frontend Developer | Systems Analyst",
+  education: [
+    "🎓 Systems Analyst - BIOS (2020-2025)",
+    "🎓 Engineering Student - UDELAR (2025-present)",
+    "💻 .NET Programmer - BIOS (2020-2021)"
+  ],
+  languages: {
+    spanish: "Native 🇪🇸",
+    english: "Advanced 🇬🇧",
+    portuguese: "Advanced 🇧🇷"
+  },
+  techStack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "Zustand"],
+    backend: ["Node.js", "Express", "NestJS", "MongoDB", "MySQL"],
+    tools: ["Git", "Figma", "Vercel", "AWS", "Jest"]
+  },
+  focus: [
+    "User-centric design & accessibility (a11y)",
+    "SEO optimization & Core Web Vitals",
+    "Scalable architecture (SSR/SSG/CSR)",
+    "High-quality, maintainable interfaces"
+  ],
+  currentlyLearning: ["React Query", "Zod", "Advanced TypeScript Patterns"],
+  openTo: ["Frontend/Full-Stack roles", "Freelance projects", "Tech collaborations"],
+  contact: "andres.darin05@gmail.com"
 };
 ```
 
-Full-stack developer with hands-on experience building modern web apps, APIs, and deployment. I love solving problems, exploring new technologies, and crafting clean, maintainable code that scales.
+<div align="center">
 
-</details>
+**Systems Analyst and Frontend Developer** specializing in React and Next.js. I combine technical skills with user-centered design to build scalable, accessible, and high-performance web applications. Looking for frontend roles where I can contribute to creating quality interfaces.
 
----
-
-## 🛠️ Tech Stack 🛠️
-
-<details>
-<summary>Mostrar / ocultar — Stack tecnológico</summary>
-
-### Lenguajes
-- JavaScript / TypeScript · Java · C# · Dart 
-
-### Frontend
-- React · Next.js · HTML5 · CSS3 · Tailwind · 
-
-### Backend
-- Node.js · Express · Ruby (básico) · Nest
-
-### Bases de datos
-- PostgreSQL · MySQL · MongoDB 
-
-### DevOps & despliegue
-- Render · Vercel · Git · AWS (concepts) · CI/CD
-
-### Herramientas
-- VS Code · Bash · Git · Figma · Postman
-
-</details>
+</div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🛠️ Skills & Expertise
 
-<details>
-<summary>Mostrar / ocultar — GitHub stats</summary>
+<div align="center">
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=andresdarin&theme=tokyonight&hide_border=true" />
-</p>
+### Frontend Development
+**React.js** • **Next.js** • **TypeScript** • **JavaScript** • **HTML5** • **CSS3**  
+**Tailwind CSS** • **SASS** • **Redux** • **Zustand** • **React Router** • **React Query**
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdarin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### Backend & Database
+**Node.js** • **Express.js** • **NestJS** • **MongoDB** • **MySQL**  
+**REST APIs** • **JWT Authentication**
 
-> Nota: las tarjetas se actualizan automáticamente. Cambia `theme=` si quieres otro estilo.
+### DevOps & Tools
+**Git** • **GitHub** • **CI/CD** • **Vercel** • **Render** • **AWS (S3, EC2)**  
+**Figma** • **Postman** • **Lighthouse**
 
-</details>
+### Quality & Performance
+**Jest** • **React Testing Library** • **Accessibility (a11y)**  
+**SEO Optimization** • **Core Web Vitals** • **User-Centered Design**
 
----
-
-## 📁 Proyectos destacados
-
-<details>
-<summary>Mostrar / ocultar — Proyectos</summary>
-
-- [Proyecto Destacado 1](https://github.com/andresdarin/tu-repo-destacado-1) — Breve descripción del proyecto y tecnologías usadas.  
-- [Proyecto Destacado 2](https://github.com/andresdarin/tu-repo-destacado-2) — Breve descripción del proyecto y logros.
-
-Si prefieres "pins" automáticos visuales (cards):
-- `https://github-readme-stats.vercel.app/api/pin/?username=andresdarin&repo=tu-repo-destacado-1&theme=tokyonight`
-- `https://github-readme-stats.vercel.app/api/pin/?username=andresdarin&repo=tu-repo-destacado-2&theme=tokyonight`
-
-</details>
+</div>
 
 ---
 
-## 💼 Experiencia profesional (resumen)
+## 💼 Professional Experience
 
-<details>
-<summary>Mostrar / ocultar — Experiencia</summary>
+<div align="center">
 
-**Full Stack Developer** — Empresa Actual  
-`2023 - Presente`  
-- Desarrollo y despliegue de aplicaciones web escalables.  
-- Optimizaciones en APIs reduciendo latencia.  
-- Implementación de pipelines CI/CD.
+**Branch Manager** | Avenida SSFF | *Sep 2020 - Present*  
+Leading team operations, implementing process improvements, and coordinating digitalization initiatives
 
-**Software Engineer** — Empresa Anterior  
-`2021 - 2023`  
-- Diseño e implementación de APIs REST.  
-- Modelado y optimización de bases de datos relacionales.  
-- Trabajo en equipos ágiles y revisión de código.
+**Event Coordinator** | Movie Center | *Aug 2019 - Jul 2020*  
+Managed large-scale events (600+ attendees) with logistics and vendor coordination
 
-> Ajusta empresas, fechas y bullets con métricas reales (usuarios, % mejora, tiempos, etc.).
+**Shift Supervisor** | Starbucks | *Feb 2018 - Aug 2019*  
+Supervised daily operations and provided on-the-job training
 
-</details>
+</div>
 
 ---
 
-## 🎓 Educación y certificaciones
+## 🎓 Education & Certifications
 
-<details>
-<summary>Mostrar / ocultar — Educación y certificaciones</summary>
+<div align="center">
 
-- **[Tu Título]** — Universid
-- Certificaciones (ejemplos):  
-  - AWS Certified Developer – Associate  
-  - Docker Certified Associate  
-  - [Otra certificación relevante]
+**Engineering Student** - UDELAR (2025 - present)  
+**Systems Analyst** - BIOS (2020 - 2025)  
+**Programmer Analyst** - BIOS (2021 - 2022)  
+**.NET Programmer** - BIOS (2020 - 2021)  
 
-</details>
+### Certifications
+✅ React, Node, JWT, Express, MongoDB - Udemy (2024)  
+✅ CSS, HTML, JS, MySQL - Udemy (2024)  
+🔄 React desde Cero: TypeScript, Zod, Zustand, React Query, Next.js - In Progress (2025)
 
----
-
-## 📫 Contacto
-
-<details>
-<summary>Mostrar / ocultar — Contacto & redes</summary>
-
-- **Email:** tu-email@example.com  
-- **LinkedIn:** https://linkedin.com/in/juanandressilvadarin/  
-- **GitHub:** https://github.com/andresdarin  
-- **Website:** https://jasd-dev.com/
-
-Si te interesa que cree una PR con este README directamente en tu repo, autorízame y lo preparo.
-
-</details>
+</div>
 
 ---
 
-## 💬 Frase favorita
+## 📊 GitHub Stats
 
-<details>
-<summary>Mostrar / ocultar — Frase</summary>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresdarin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-> “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”  
-> — Chris Gardner (interpretado por Will Smith) — The Pursuit of Happyness (2006)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdarin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-</details>
+
+---
+
+## 💭 Personal Philosophy
+
+<div align="center">
+
+> *"I meet uncertainty in code with curiosity, bugs with patience, and failed deployments with persistence. I don’t fear what I don’t yet know, because every challenge is an opportunity to learn, grow, and improve, this is how I move forward as a developer."*  
+
+</div>
 
 ---
 
-## 😂 Chiste aleatorio / DOSE
+## 📫 Let's Connect
 
-<details>
-<summary>Mostrar / ocultar — Chiste aleatorio</summary>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-</details>
-
----
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanandressilvadarin/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresdarin) 
-[![.JASD](https://img.shields.io/badge/Website-8e7e57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jasd-dev.com/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8e7e57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jasd-dev.com/) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.darin05@gmail.com)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4435F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-<p align="center">
-  <img alt="Perfil visitas" src="https://komarev.com/ghpvc/?username=andresdarin&color=blueviolet&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=andresdarin&color=blueviolet&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q437en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
 </div>
 
 ---
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Bottom Wave" />
 </p>
- 
