@@ -4,7 +4,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=black&reversal=true />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Andrés+Darín;Frontend+Developer;Systems+Analyst;Coder;Gamer;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Andrés+Darín;FullStack+Developer;Systems+Analyst;Coder;Gamer;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ---
